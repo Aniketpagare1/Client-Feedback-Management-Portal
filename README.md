@@ -1,7 +1,6 @@
 Client Feedback Management Portal
 
-A web-based Client Feedback Management Portal designed to collect, analyze, and manage customer feedback for
-DCInfoTech Pvt Ltd's products and services
+A web-based Client Feedback Management Portal designed to collect, analyze, and manage customer feedback for products and services
 Tech Stack
 
     Frontend: React.js
